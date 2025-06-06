@@ -1,0 +1,232 @@
+git clone https://github.com/soyHenry/Prep-Course.git
+git clone https://github.com/soyHenry/Prep-Course.git
+git status
+git add 02-JS-I/homework/homework.js
+git status
+git commit -m "first commit"
+git push
+git clone https://github.com/tomasvalent/Prep-Course.git
+git clone https://github.com/tomasvalent/Prep-Course.git
+git clonehttps://github.com/soyHenry/Prep-Course.git
+git clone https://github.com/soyHenry/Prep-Course.git
+git clone https://github.com/soyHenry/Prep-Course.git
+git clone Tomas@PC MINGW64 /d/Tomas/Desktop
+$
+git clone
+git clone Tomas@PC MINGW64 /d/Tomas/Desktop
+$
+git clone
+git clone https://github.com/soyHenry/Prep-Course.git
+git clonehttps://github.com/soyHenry/Prep-Course.git
+git clone https://github.com/soyHenry/Prep-Course.git
+git clone https://github.com/tomasvalent/Prep-Course.git
+git clonehttps://github.com/soyHenry/Prep-Course.git
+git clone https://github.com/soyHenry/Prep-Course.git
+git --version
+git--vesion
+git --version
+git --global user.email
+git config --global user.email
+git config --global user.name
+cd Desktop/
+mkdir "prepcourse henry"
+cd "prepcourse henry" /
+touch 'mi primer repositorio.text'
+code "mi primer repositorio.txt"
+code "mi primer repositorio.txt"
+git --version
+git config --global user.email "tomas.a.valentino@gmail.com
+git --version
+git config --global user.email "tomas.a.valentino@gmail.com"
+git config --global user.name "Tomasvalentino"
+clear
+cd Desktop
+cd Desktop/
+mkdir "Practica para el sabado"
+cd "practica para el sabado"
+touch "mi primer repositorio"
+clear
+mkdir "practica para el sabado"
+mkdir "practica para el sabado"
+cd "practica para el sabado"
+touch "mi primer repositorio.txt"
+code "mi primer repositorio.txt"
+git clone https://github.com/TAvalentino/PrepCourse-Henry.git
+git clone https://github.com/TAvalentino/PrepCourse-Henry.git
+cd PrepCurse-Henry
+cd PrepCourse-Henry/
+code .
+git add README.md
+git commit -m "commit de prueba"
+git push origin main
+git push origin main
+git push origin main
+git push origin main
+cd PrepCourse\ Henry/
+cd PrepCourse Henry/
+clear
+cd PrepCourse-Henry/
+git remote add origin https://github.com/TAvalentino/PrepCourse-NoReadme.git
+clear
+cd "practica para el sabado"
+git remote add origin https://github.com/TAvalentino/PrepCourse-NoReadme.git
+git branch -M main
+git push -u origin main
+git --version
+git clone https://github.com/sofiasartori/UTN-FRA_SO_Examenes
+./UTN-FRA_SO_Examenes/script_Precondicion.sh
+source ~/.bashrc
+# Habilita la opción para agregar nuevos comandos al final del historial de comandos.
+shopt -s histappend
+touch ~/.bash_history
+chmod 600 ~/.bash_history
+sudo chattr +a ~/.bash_history
+# Agrega configuración al final del archivo .bashrc
+cat << EOF >> ~/.bashrc
+###########################################################
+# Configuración del historial de comandos #
+###########################################################
+# Establece el tamaño máximo del historial en 10000 comandos.
+export HISTSIZE=10000
+# No hay límite en el tamaño del archivo de historial.
+export HISTFILESIZE=-1
+# Actualiza y sincroniza el historial de comandos entre sesiones.
+export PROMPT_COMMAND="history -a; history -c; history -r; \$PROMPT_COMMAND"
+EOF
+
+# Recarga el archivo .bashrc para aplicar los cambios.
+. ~/.bashrc
+history -a
+echo 
+echo "Por favor ejecute: source  ~/.bashrc  && history -a "
+echo 
+[200~mkdir -p /c/datos/textos/{libros,revistas} /c/datos/videos/{peliculas,series}
+mkdir -p /c/datos/textos/{libros,revistas} /c/datos/videos/{peliculas,series}
+ls -R /c/datos
+echo 'mkdir -p /c/datos/textos/{libros,revistas} /c/datos/videos/{peliculas,series}' > Punto_A.sh
+git add Punto_A.sh
+git commit -m "Agregar script para crear estructura de directorios - Punto A"
+git push origin main
+mkdir -p /c/datos/textos/{libros,revistas} /c/datos/videos/{peliculas,series}
+mkdir -p /c/datos/textos/{libros,revistas} /c/datos/videos/{peliculas,series}
+mkdir -p /datos/textos/{libros,revistas} /datos/videos/{peliculas,series}
+mkdir -p /c/datos/textos/{libros,revistas} /c/datos/videos/{peliculas,series}
+echo 'mkdir -p /c/datos/textos/{libros,revistas} /c/datos/videos/{peliculas,series}' > Punto_A.sh
+chmod +x Punto_A.sh
+pwd
+git status
+git status
+cd /c/Users/Tomas/Desktop/Recu_TP_AySO
+bash: cd: /c/Users/Tomas/Desktop/Recu_TP_AySO: No such file or directory
+ls /c/Users/Tomas/Desktop
+cd /c/Users/Tomas/Desktop
+pwd
+git clone [200~cd /c/Users/Tomas/Desktop
+git clone https://github.com/TAvalentino/Recu_TP_AySO.git
+cd Recu_TP_AySO
+git status
+echo 'mkdir -p /c/datos/textos/{libros,revistas} /c/datos/videos/{peliculas,series}' > Punto_A.sh
+git add Punto_A.sh
+git add Punto_A.sh
+git commit -m "punto A finalizado"
+git push origin main
+git status
+git clone https://github.com/TAvalentino/Recu_TP_AySO.git
+./Recu_TP_AySO/script_Precondicion.sh
+source~/.bashrc
+echo 'mkdir -p /c/datos/textos/{libros,revistas} /c/datos/videos/{peliculas,series}' > Punto_A.sh
+cat Punto_A.sh
+git add Punto_A.sh
+git commit -m "punto A finalizado"
+git push origin main
+cd /c/Users/Tomas/Desktop/Recu_TP_AySO
+git init
+git remote add origin https://github.com/TAvalentino/Recu_TP_AySO.git
+git remote -v
+echo 'mkdir -p /c/datos/textos/{libros,revistas} /c/datos/videos/{peliculas,series}' > Punto_A.sh
+cat Punto_A.sh
+git add .
+git commit -m "Punto A finalizado"
+git push origin main
+sudo groupadd p1c1_2024_g1
+sudo useradd -m -G p1c1_2024_g1 -s /bin/bash p1c1_2024_u1
+echo "p1c1_2024_u1:clave1" | sudo chpasswd
+nano Punto_B.sh
+[200~chmod +x Punto_B.sh
+chmod +x Punto_B.sh
+./Punto_B.sh
+ls -R /datos
+cat /etc/os-release
+cd ~/Recu_TP_AySO
+exit
+cd "/c/Users/Tomas/Recu_TP_AySO"
+ls
+cd /c/Users/Tomas
+ls
+cd Recu_TP_Ayso
+cd Recu_TP_AySO
+git clone https://github.com/TAvalentino/Recu_TP_AySO.git
+sudo groupadd p1c1_2024_g1
+cd ~/Desktop/Recu_TP_AySO
+git status
+git init
+mkdir -p ~/Ejercicio_D/{rx,tx}/{lotes_{1..20}} && mkdir -p ~/Ejercicio_D/rx/extras_{1..100}
+tree ~/Ejercicio_D/ --noreport | pr -T -s' ' -w 80 --column=4
+nano Punto_D.sh
+chmod +x Punto_D.sh
+chmod +x Punto_D.sh
+git add Punto_D.sh
+git commit -m "Agregar script Punto_D.sh"
+git push
+mkdir -p ~/Punto_E
+grep MemTotal /proc/meminfo
+grep "model name" /proc/cpuinfo | head -1
+grep "cpu MHz" /proc/cpuinfo | head -1
+grep MemTotal /proc/meminfo > ~/Punto_E/Filtro_basico.txt
+grep "model name" /proc/cpuinfo | head -1 >> ~/Punto_E/Filtro_basico.txt
+grep "cpu MHz" /proc/cpuinfo | head -1 >> ~/Punto_E/Filtro_basico.txt
+nano ~/Punto_E/Punto_E.sh
+mkdir -p ~/Punto_E
+nano ~/Punto_E/Punto_E.sh
+chmod +x ~/Punto_E/Punto_E.sh
+git add Punto_E.sh
+cp ~/Punto_E/Punto_E.sh .
+git add Punto_E.sh
+git commit -m "Punto_E.sh Finalizado"
+git push
+mkdir -p ~/Punto_F
+IP_PUBLICA=$(curl -s ifconfig.me)
+CPU_MODELO=$(cat /proc//cpuinfo | grep "model name" | head -n 1 | cut -d ":" -f 2 | sed 's/^[ \t*//')
+CPU_FRECUENCIA=$(cat /proc/cpuinfo | grep "cpu MHz" | head -n 1 cut -d ":" -f 2 | sed 's/^[ \t]*//)
+
+
+
+
+
+
+
+CPU_MODELO=$(cat /proc//cpuinfo | grep "model name" | head -n 1 | cut -d ":" -f 2 | sed 's/^[ \t*]//')
+echo "Mi ip publica es: %IP_PUBLICA" > ~/Punto_F/Filtro_Avanzado.txt
+echo "CPU Modelo:$CPU_MODELO Frecuencia: ${CPU_FRECUENCIA}Hz" >> ~/Punto_F/Filtro_Avanzado.txt
+echo "Archivo Filtro_Avanzado.txt creado en ~/Punto_F/"
+exit
+git init
+git init https://github.com/TAvalentino/Recu_TP_AySO.git
+git clone https://github.com/TAvalentino/Recu_TP_AySO.git
+git init
+cd ~/Desktop/Recu_TP_AySO
+git init
+mkdir ~/Punto_F
+curl -s ifconfig.me
+grep "model name" /proc/cpuinfo | head -n 1 | cut -d ":" -f 2 | sed 's/^[ \t]*//'
+grep "cpu MHz" /proc/cpuinfo | head -n 1 | cut -d ":" -f 2 | sed 's/^[ \t]*//'
+echo "Mi ip publica es: $(curl -s ifconfig.me)" > ~/Punto_F/Flitro_Avanzado.txt
+echo "CPU Modelo: $(grep "model name" /proc/cpuinfo | head -n 1 | cut -d ":" -f 2 | sed 's/^[ \t]*//') Frecuencia: $(grep "cpu MHz" /proc/cpuinfo | head -n 1 | cut -d ":" -f 2 | sed 's/^[ \t]*//')Hz" >> ~/Punto_F/Flitro_Avanzado.txt
+nano Punto_F
+chmod +x Punto_F.sh
+./Punto_F.sh
+cat ~/Punto_F/Flitro_Avanzado.txt
+git add Punto_F.sh
+git commit -m "Punto_F.sh Finalizado"
+git push origin main
+history -a
